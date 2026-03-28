@@ -1,4 +1,4 @@
-#  FixIt — Handyman Service Website
+#  FixIt - Handyman Service Website
 
 A full-stack home services booking platform built with React, Node.js, Express, and MySQL.
 
